@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    background-color: blue;
+    border-radius: 10px;
+    color:whitesmoke;
+    padding: 15px;
+    box-shadow: 0 0 20px orangered;
+    width:100%;
+
+}
